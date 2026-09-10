@@ -4,3 +4,4 @@ This is the repository for the Embedded Software for the Internet of Things (Int
 
 ## Slides
 - Introduction  [[Slides]](Slides/Lecture-1.pdf)
+- ARM Cortex Architecture  [[Slides]](Slides/Lecture-2.pdf)
