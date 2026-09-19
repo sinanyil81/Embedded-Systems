@@ -10,8 +10,8 @@ This is the repository for the Embedded Software for the Internet of Things (Int
 - Interfacing Input/Output [[Slides]](Slides/Lecture-4.pdf)
 
 ## Part 2: Introduction to Bare Metal Programming (MSP432)
-- Introduction to TI MSP432 Launchpad [[Slides]](Slides/Lecture-5.pdf)
-- TI MSP432 General Purpose Input/Output (GPIO) [[Slides]](Slides/Lecture-6.pdf)
+- Introduction to TI MSP432Launchpad [[Slides]](Slides/Lecture-5.pdf)
+- TI MSP432General Purpose Input/Output (GPIO) [[Slides]](Slides/Lecture-6.pdf)
 ### Software Development Environment
 - Install Texas Instruments [Code Composer Studio version 12.8.1 (TI CCS)](https://www.ti.com/tool/download/CCSTUDIO/12.8.1)
 ### Technical Documentation
