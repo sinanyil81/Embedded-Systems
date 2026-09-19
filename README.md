@@ -9,7 +9,8 @@ This is the repository for the Embedded Software for the Internet of Things (Int
 - Embedded Program Development  [[Slides]](Slides/Lecture-3.pdf)
 - Interfacing Input/Output [[Slides]](Slides/Lecture-4.pdf)
 
-## Part 2: Introduction to Bare Metal Programming (MSP432)
+## Part 2: Introduction to Bare Metal Programming (MSP432) 
+<img src="MSP432-Docs/MSP-EXP432P401R.png" width="200" />
 - Introduction to TI MSP432 Launchpad [[Slides]](Slides/Lecture-5.pdf)
 - TI MSP432 General Purpose Input/Output (GPIO) [[Slides]](Slides/Lecture-6.pdf)
 ### Software Development Environment
