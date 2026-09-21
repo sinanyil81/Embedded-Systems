@@ -14,6 +14,7 @@ This is the repository for the Embedded Software for the Internet of Things (Int
 - TI MSP432 General Purpose Input/Output (GPIO) [[Slides]](Slides/Lecture-6.pdf)
 ### Software Development Environment
 - Install Texas Instruments [Code Composer Studio version 12.8.1 (TI CCS)](https://www.ti.com/tool/download/CCSTUDIO/12.8.1)
+- Select MSP432P401R as the target platform when creating projects.
 ### Technical Documentation
 <img src="MSP432-Docs/MSP-EXP432P401R.png" width="200" />
 
