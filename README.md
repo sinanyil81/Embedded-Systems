@@ -12,6 +12,8 @@ This is the repository for the Embedded Software for the Internet of Things (Int
 ## Part 2: Introduction to Bare Metal Programming (with MSP432 LaunchPad) 
 - Introduction to TI MSP432 Launchpad [[Slides]](Slides/Lecture-5.pdf)
 - General Purpose Input/Output (GPIO) [[Slides]](Slides/Lecture-6.pdf)
+- Finite State Machines [[Slides]](Slides/Lecture-6b.pdf)
+- Interrupts [[Slides]](Slides/Lecture-7.pdf)
 
 ### Exercises 
 - LED Blink Examples [[lab 0]](Labs/lab0-blink)
