@@ -18,6 +18,7 @@ This is the repository for the Embedded Software for the Internet of Things (Int
 ### Exercises 
 - LED Blink Examples [[lab 0]](Labs/lab0-blink)
 - Push Button Examples [[lab 1]](Labs/lab1-gpio)
+- Interrupt Examples [[lab 2]](Labs/lab2-interrupts)
 #### Software Development Environment
 - Install Texas Instruments [Code Composer Studio version 12.8.1 (TI CCS)](https://www.ti.com/tool/download/CCSTUDIO/12.8.1)
 - Select MSP432P401R as the target platform when creating projects.
