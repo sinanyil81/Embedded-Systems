@@ -1,0 +1,74 @@
+#include "msp.h"
+
+void configurePorts(){
+    /* configure P2.0, P2.1 and P2.2 as GPIO */
+    P2->SEL0 &= ~(BIT0| BIT1 | BIT2);
+    P2->SEL1 &= ~(BIT0| BIT1 | BIT2);
+
+    /* set Port 2.0, 2.1 and 2.2 as output */
+    P2->DIR |= (BIT0 | BIT1 | BIT2);
+
+    /* clear the pins */
+    P2->OUT &= ~(BIT0| BIT1 | BIT2);
+
+    /* set P1.1 as GPIO configuration */
+    P1->SEL0 &= ~BIT1;
+    P1->SEL1 &= ~BIT1;
+
+    /* set P1.1 and P1.4 as input pins */
+    P1->DIR &= ~(BIT1 | BIT4);
+    /* pullup mode configuration */
+    P1->OUT |=  (BIT1 | BIT4);
+    /* enable pullup resistor */
+    P1->REN  |= (BIT1 |BIT4);
+}
+
+int counter = 0;
+
+/**
+ * main.c
+ */
+void main(void)
+{
+	WDT_A->CTL = WDT_A_CTL_PW | WDT_A_CTL_HOLD;		// stop watchdog timer
+
+	configurePorts();
+
+	/* P1.1 and P1.4 as high-to-low transition interrupt */
+	P1->IES |= (BIT1 | BIT4);
+	/* enable P1.1 and P1.4 interrupt */
+	P1->IE |= (BIT1 | BIT4);
+	/* clear interrupt flag */
+	P1->IFG = 0;
+	/* play with ISER1 register to set IRQ35 -> P1 */
+	NVIC->ISER[1] |= 1 << (PORT1_IRQn & 31);
+
+    while(1){
+        /* Put MCU into LPM0 power mode -> consume less power */
+        __sleep();
+        if(counter ==1){
+            /* toggle red LED */
+            P2->OUT ^= BIT0;
+        }
+        else if(counter ==2){
+            /* toggle green LED */
+            P2->OUT ^= BIT1;
+        }
+        else if(counter == 4){
+            /* toggle blue LED */
+            P2->OUT ^= BIT2;
+        }
+    }
+}
+
+/* ISR Handler for PORT1 */
+void PORT1_IRQHandler(){
+
+    /* check if there is a pending interrupt on P1.1 */
+    if(P1->IFG & BIT1){
+        counter = (counter +1) % 5;
+        /* clear the interrupt flags */
+        P1->IFG &= ~BIT1;
+
+    }
+}
