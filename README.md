@@ -14,11 +14,13 @@ This is the repository for the Embedded Software for the Internet of Things (Int
 - General Purpose Input/Output (GPIO) [[Slides]](Slides/Lecture-6.pdf)
 - Finite State Machines [[Slides]](Slides/Lecture-6b.pdf)
 - Interrupts [[Slides]](Slides/Lecture-7.pdf)
+- Timers [[Slides]](Slides/Lecture-8.pdf)
 
 ### Exercises 
 - LED Blink Examples [[lab 0]](Labs/lab0-blink)
 - Push Button Examples [[lab 1]](Labs/lab1-gpio)
 - Interrupt Examples [[lab 2]](Labs/lab2-interrupts)
+- Timer Examples [[lab 3]](Labs/lab3-timers)
 #### Software Development Environment
 - Install Texas Instruments [Code Composer Studio version 12.8.1 (TI CCS)](https://www.ti.com/tool/download/CCSTUDIO/12.8.1)
 - Select MSP432P401R as the target platform when creating projects.
