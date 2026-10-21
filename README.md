@@ -28,13 +28,14 @@ This is the repository for the Embedded Software for the Internet of Things (Int
 - MSP32 DriverLib [[Slides]](Slides/Lecture-11.pdf)
 
 ### Exercises 
-- DriverLib Examples [[lab 0]](Labs/lab4-driverlib)
+- DriverLib Examples [[lab 4]](Labs/lab4-driverlib)
 
 #### Software Development Environment
 - Install Texas Instruments [Code Composer Studio version 12.8.1 (TI CCS)](https://www.ti.com/tool/download/CCSTUDIO/12.8.1)
 - Select MSP432P401R as the target platform when creating projects.
 #### Technical Documentation
 <img src="MSP432-Docs/MSP-EXP432P401R.png" width="200" />
+
 - [MSP432 DriverLib Reference](MSP432-Docs/DriverLib/MSP432_DriverLib_Users_Guide-MSP432P4xx-4_40_00_03.pdf)
 - [MSP432P401R Launchpad Manual](MSP432-Docs/slau597f.pdf)
 - [MSP432P401R Datasheet](MSP432-Docs/msp432p401r.pdf)
