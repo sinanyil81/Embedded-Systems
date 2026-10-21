@@ -22,7 +22,7 @@ This is the repository for the Embedded Software for the Internet of Things (Int
 - Interrupt Examples [[lab 2]](Labs/lab2-interrupts)
 - Timer Examples [[lab 3]](Labs/lab3-timers)
 
-## Part 3: Introduction to MSP432 HAL: DriverLib 
+## Part 3: Introduction to Hardware Abstraction Layer (MSP432 DriverLib) 
 - Embedded C [[Slides]](Slides/Lecture-9.pdf)
 - MSP32 Memory Map [[Slides]](Slides/Lecture-10.pdf)
 - MSP32 DriverLib [[Slides]](Slides/Lecture-11.pdf)
