@@ -30,6 +30,7 @@ This is the repository for the Embedded Software for the Internet of Things (Int
 ### Exercises 
 - DriverLib Examples [[lab 4]](Labs/lab4-driverlib)
 
+## Tools & Links & Documents 
 #### Software Development Environment
 - Install Texas Instruments [Code Composer Studio version 12.8.1 (TI CCS)](https://www.ti.com/tool/download/CCSTUDIO/12.8.1)
 - Select MSP432P401R as the target platform when creating projects.
