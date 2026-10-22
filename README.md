@@ -29,18 +29,19 @@ This is the repository for the Embedded Software for the Internet of Things (Int
 
 ### Exercises 
 - DriverLib Examples [[lab 4]](Labs/lab4-driverlib)
+ 
+#### DriverLib Download and Configuration 
+- Download [DriverLib](MSP432-Docs/DriverLib/simplelink_msp432p4_sdk_3_40_01_02.zip)
+- [DriverLib Configuration](MSP432-Docs/DriverLib/driverlibCSSpaths.txt)
+- [MSP432 DriverLib Reference](MSP432-Docs/DriverLib/MSP432_DriverLib_Users_Guide-MSP432P4xx-4_40_00_03.pdf)
 
 ## Tools & Links & Documents 
 #### Software Development Environment
 - Install Texas Instruments [Code Composer Studio version 12.8.1 (TI CCS)](https://www.ti.com/tool/download/CCSTUDIO/12.8.1)
 - Select MSP432P401R as the target platform when creating projects.
-#### DriverLib Download and Configuration 
-- Download [DriverLib](MSP432-Docs/DriverLib/simplelink_msp432p4_sdk_3_40_01_02.zip)
-- [DriverLib Configuration](MSP432-Docs/DriverLib/driverlibCSSpaths.txt)
 #### Technical Documentation
 <img src="MSP432-Docs/MSP-EXP432P401R.png" width="200" />
 
-- [MSP432 DriverLib Reference](MSP432-Docs/DriverLib/MSP432_DriverLib_Users_Guide-MSP432P4xx-4_40_00_03.pdf)
 - [MSP432P401R Launchpad Manual](MSP432-Docs/slau597f.pdf)
 - [MSP432P401R Datasheet](MSP432-Docs/msp432p401r.pdf)
 - [MSP432 Technical Reference Manual](MSP432-Docs/slau356i.pdf)
