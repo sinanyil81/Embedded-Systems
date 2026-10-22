@@ -34,7 +34,9 @@ This is the repository for the Embedded Software for the Internet of Things (Int
 #### Software Development Environment
 - Install Texas Instruments [Code Composer Studio version 12.8.1 (TI CCS)](https://www.ti.com/tool/download/CCSTUDIO/12.8.1)
 - Select MSP432P401R as the target platform when creating projects.
-- DriverLib Configuration
+#### DriverLib Download and Configuration 
+- Download [DriverLib](MSP432-Docs/DriverLib/simplelink_msp432p4_sdk_3_40_01_02.zip)
+- [DriverLib Configuration](MSP432-Docs/DriverLib/driverlibCSSpaths.txt)
 #### Technical Documentation
 <img src="MSP432-Docs/MSP-EXP432P401R.png" width="200" />
 
