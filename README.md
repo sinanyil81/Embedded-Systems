@@ -25,7 +25,7 @@ This is the repository for the Embedded Software for the Internet of Things (Int
 ## Part 3: Introduction to Hardware Abstraction Layer (MSP432 DriverLib) 
 - Embedded C [[Slides]](Slides/Lecture-9.pdf)
 - MSP32 Memory Map [[Slides]](Slides/Lecture-10.pdf)
-- MSP32 DriverLib [[Slides]](Slides/Lecture-11.pdf)
+- MSP32 Hardware Abstraction Layer: DriverLib [[Slides]](Slides/Lecture-11.pdf)
 
 ### Exercises 
 - DriverLib Examples [[lab 4]](Labs/lab4-driverlib)
@@ -34,6 +34,7 @@ This is the repository for the Embedded Software for the Internet of Things (Int
 #### Software Development Environment
 - Install Texas Instruments [Code Composer Studio version 12.8.1 (TI CCS)](https://www.ti.com/tool/download/CCSTUDIO/12.8.1)
 - Select MSP432P401R as the target platform when creating projects.
+- DriverLib Configuration
 #### Technical Documentation
 <img src="MSP432-Docs/MSP-EXP432P401R.png" width="200" />
 
