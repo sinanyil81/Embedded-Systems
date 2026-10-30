@@ -27,6 +27,7 @@ This is the repository for the Embedded Software for the Internet of Things (Int
 - MSP32 Memory Map [[Slides]](Slides/Lecture-10.pdf)
 - MSP32 Hardware Abstraction Layer: DriverLib [[Slides]](Slides/Lecture-11.pdf)
 - Analog-to-Digital Converter [[Slides]](Slides/Lecture-12.pdf)
+- Serial Peripheral Interfaces [[Slides]](Slides/Lecture-13.pdf)
 
 ### Exercises 
 - DriverLib Examples [[lab 4]](Labs/lab4-driverlib)
