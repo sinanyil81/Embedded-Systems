@@ -48,7 +48,10 @@ This is the repository for the Embedded Software for the Internet of Things (Int
 - PWM Led [[lab 8]](Labs/lab6-other-sensors/pwm-led)
 - PWM Buzzer [[lab 9]](Labs/lab6-other-sensors/pwm-buzzer)
 - Microphone [[lab 10]](Labs/lab6-other-sensors/microphone)
-- Accelerometer [[lab 11]](Labs/lab7-accelerometer) 
+- Accelerometer [[lab 11]](Labs/lab7-accelerometer)
+
+#### MSP Graphics Library 
+- [MSP432 Graphics Library Reference](MSP432-Docs/DriverLib/MSP_Graphics_Library-3_21_00_00.pdf)
 
 ## Tools & Links & Documents 
 #### Software Development Environment
