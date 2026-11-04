@@ -1,0 +1,2 @@
+include: simplelink_msp432p4_sdk_3_40_01_02/source/third_party/CMSIS/Include
+library: simplelink_msp432p4_sdk_3_40_01_02/source/third_party/CMSIS/DSP_Lib/lib/ccs/m4f/arm_cortexM4lf_math.a
