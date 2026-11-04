@@ -37,6 +37,19 @@ This is the repository for the Embedded Software for the Internet of Things (Int
 - [DriverLib Configuration](MSP432-Docs/DriverLib/driverlibCSSpaths.txt)
 - [MSP432 DriverLib Reference](MSP432-Docs/DriverLib/MSP432_DriverLib_Users_Guide-MSP432P4xx-4_40_00_03.pdf)
 
+## Part 4: Interfacing Sensors
+- Interfacing MSP432 BOOSTERPACK SENSORS - I [[Slides]](Slides/Lecture-14.pdf)
+- Interfacing MSP432 BOOSTERPACK SENSORS - II [[Slides]](Slides/Lecture-15.pdf)
+
+### Exercises 
+- Temperature Sensor [[lab 5]](Labs/lab5-lcd-temperature)
+- Light Sensor [[lab 6]](Labs/lab6-other-sensors/light-sensor)
+- Joystick Sensor [[lab 7]](Labs/lab6-other-sensors/joystick)
+- PWM Led [[lab 8]](Labs/lab6-other-sensors/pwm-led)
+- PWM Buzzer [[lab 9]](Labs/lab6-other-sensors/pwm-buzzer)
+- Microphone [[lab 10]](Labs/lab6-other-sensors/microphone)
+- Accelerometer [[lab 11]](Labs/lab7-accelerometer) 
+
 ## Tools & Links & Documents 
 #### Software Development Environment
 - Install Texas Instruments [Code Composer Studio version 12.8.1 (TI CCS)](https://www.ti.com/tool/download/CCSTUDIO/12.8.1)
