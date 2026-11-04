@@ -9,7 +9,7 @@ This is the repository for the Embedded Software for the Internet of Things (Int
 - Embedded Program Development  [[Slides]](Slides/Lecture-3.pdf)
 - Interfacing Input/Output [[Slides]](Slides/Lecture-4.pdf)
 
-## Part 2: Introduction to Bare Metal Programming (with MSP432 LaunchPad) 
+## Part 2: Introduction to Bare Metal Programming
 - Introduction to TI MSP432 Launchpad [[Slides]](Slides/Lecture-5.pdf)
 - General Purpose Input/Output (GPIO) [[Slides]](Slides/Lecture-6.pdf)
 - Finite State Machines [[Slides]](Slides/Lecture-6b.pdf)
