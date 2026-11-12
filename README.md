@@ -40,6 +40,7 @@ This is the repository for the Embedded Software for the Internet of Things (Int
 ## Part 4: Interfacing Sensors
 - Interfacing MSP432 BOOSTERPACK SENSORS - I [[Slides]](Slides/Lecture-14.pdf)
 - Interfacing MSP432 BOOSTERPACK SENSORS - II [[Slides]](Slides/Lecture-15.pdf)
+- Accelerometer [[Slides]](Slides/Lecture-16.pdf)
 
 ### Exercises 
 - Temperature Sensor [[lab 5]](Labs/lab5-lcd-temperature)
