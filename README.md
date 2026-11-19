@@ -53,7 +53,7 @@ This is the repository for the Embedded Software for the Internet of Things (Int
 
 #### MSP Graphics Library 
 - [MSP432 Graphics Library Reference](MSP432-Docs/DriverLib/MSP_Graphics_Library-3_21_00_00.pdf)
-- [Grlib Linking Path Configuratio ](Labs/lab5-lcd-temperature/grlib.txt)
+- [Grlib Linking Path Configuration](Labs/lab5-lcd-temperature/grlib.txt)
 
 ## IoT Project Info and Grading
 - Information on the Course Projects [[Slides]](Slides/Project-Info.pdf)
