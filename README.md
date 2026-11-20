@@ -42,6 +42,11 @@ This is the repository for the Embedded Software for the Internet of Things (Int
 - Interfacing MSP432 BOOSTERPACK SENSORS - II [[Slides]](Slides/Lecture-15.pdf)
 - Accelerometer [[Slides]](Slides/Lecture-16.pdf)
 
+## Part 5: Other Topics
+- Embedded Software Testing [[Slides]](Slides/Lecture-18.pdf)
+- Introduction to Realtime Concepts and RTOS [[Slides]](Slides/Lecture-xx.pdf)
+- The Internet of Things [[Slides]](Slides/Lecture-xx.pdf)
+
 ### Exercises 
 - Temperature Sensor [[lab 5]](Labs/lab5-lcd-temperature)
 - Light Sensor [[lab 6]](Labs/lab6-other-sensors/light-sensor)
