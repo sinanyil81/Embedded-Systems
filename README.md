@@ -42,13 +42,6 @@ This is the repository for the Embedded Software for the Internet of Things (Int
 - Interfacing MSP432 BOOSTERPACK SENSORS - II [[Slides]](Slides/Lecture-15.pdf)
 - Accelerometer [[Slides]](Slides/Lecture-16.pdf)
 
-## Part 5: Other Topics
-- Embedded Software Testing [[Slides]](Slides/Lecture-18.pdf)
-- Invited Lecture: Embedded Systems on FPGA [[Slides]](Slides/Embedded-Systems-on-FPGA.pdf)
-- The Internet of Things [[Slides]](Slides/Lecture-xx.pdf)
-- Introduction to Realtime Concepts and RTOS [[Slides]](Slides/Lecture-xx.pdf)
-
-
 ### Exercises 
 - Temperature Sensor [[lab 5]](Labs/lab5-lcd-temperature)
 - Light Sensor [[lab 6]](Labs/lab6-other-sensors/light-sensor)
@@ -58,9 +51,15 @@ This is the repository for the Embedded Software for the Internet of Things (Int
 - Microphone [[lab 10]](Labs/lab6-other-sensors/microphone)
 - Accelerometer [[lab 11]](Labs/lab7-accelerometer)
 
-#### MSP Graphics Library 
+### MSP Graphics Library 
 - [MSP432 Graphics Library Reference](MSP432-Docs/DriverLib/MSP_Graphics_Library-3_21_00_00.pdf)
 - [Grlib Linking Path Configuration](Labs/lab5-lcd-temperature/grlib.txt)
+  
+## Part 5: Other Topics
+- Embedded Software Testing [[Slides]](Slides/Lecture-18.pdf)
+- Invited Lecture: Embedded Systems on FPGA [[Slides]](Slides/Embedded-Systems-on-FPGA.pdf)
+- The Internet of Things [[Slides]](Slides/Lecture-xx.pdf)
+- Introduction to Realtime Concepts and RTOS [[Slides]](Slides/Lecture-xx.pdf)
 
 ## IoT Project Info and Grading
 - Information on the Course Projects [[Slides]](Slides/Project-Info.pdf)
