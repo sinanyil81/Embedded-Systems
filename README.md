@@ -44,9 +44,10 @@ This is the repository for the Embedded Software for the Internet of Things (Int
 
 ## Part 5: Other Topics
 - Embedded Software Testing [[Slides]](Slides/Lecture-18.pdf)
-- Embedded Systems on FPGA [[Slides]](Slides/Embedded-Systems-on-FPGA.pdf)
-- Introduction to Realtime Concepts and RTOS [[Slides]](Slides/Lecture-xx.pdf)
+- Invited Lecture: Embedded Systems on FPGA [[Slides]](Slides/Embedded-Systems-on-FPGA.pdf)
 - The Internet of Things [[Slides]](Slides/Lecture-xx.pdf)
+- Introduction to Realtime Concepts and RTOS [[Slides]](Slides/Lecture-xx.pdf)
+
 
 ### Exercises 
 - Temperature Sensor [[lab 5]](Labs/lab5-lcd-temperature)
