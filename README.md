@@ -63,6 +63,10 @@ This is the repository for the Embedded Software for the Internet of Things (Int
 
 ## IoT Project Info and Grading
 - Information on the Course Projects [[Slides]](Slides/Project-Info.pdf)
+
+## From MSP432 to ESP32
+- ESP32 Basics [[Slides]](Slides/MSP432-ESP32.pdf)
+- ESP32 Starter Repository [[Github Link]](https://github.com/janlueken1/ebsys_esp32/tree/main)
   
 ## Tools & Links & Documents 
 #### Software Development Environment
